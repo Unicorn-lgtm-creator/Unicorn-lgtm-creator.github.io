@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://unicorn-lgtm-creator.github.io/sitemap.xml
