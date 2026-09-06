@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://unicorn-lgtm-creator.github.io/sitemap.xml
+Sitemap: https://brandora.in/sitemap.xml

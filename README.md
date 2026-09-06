@@ -1,6 +1,9 @@
-# BRANDORA
+# Brandora — Creative & Growth Studio
 
-Premium creative and growth studio website.
+Official website of Brandora (creative & growth studio for consumer brands).
 
-## Deployment
-Published as a static website through GitHub Pages. The entry point is `index.html` and portfolio assets are stored in `assets/work/`.
+- **Live site:** https://Unicorn-lgtm-creator.github.io/
+- **Email:** Brandora4U@gmail.com
+- **Instagram:** https://www.instagram.com/growwithbrandora
+
+Static site served via GitHub Pages (28 pages, 30 creative works, SEO + JSON-LD built in). No build step required — push to `main` and Pages serves it.
